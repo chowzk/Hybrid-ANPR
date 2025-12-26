@@ -1,6 +1,6 @@
 # Two-tier Adaptive Optical Character Recognition Using Image Preprocessing Coupled with Paddle OCR and Tesseract
 
-## 👨‍💻 Author
+## Author
 
 **Chow Zhen Kit**  
 Bachelor in Data Science (Honours)  
