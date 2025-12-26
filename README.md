@@ -1,5 +1,7 @@
 # Two-tier Adaptive Optical Character Recognition Using Image Preprocessing Coupled with Paddle OCR and Tesseract
 
+## 🚧 Under Construction 🚧
+
 ## Author
 
 **Chow Zhen Kit**  
