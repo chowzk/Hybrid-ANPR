@@ -4,6 +4,7 @@
 
 **Chow Zhen Kit**
 Bachelor in Data Science (Honours)
+
 Where to find me:
 - [LinkedIn](https://www.linkedin.com/in/zhen-kit-chow-5b904a288)
 - [GitHub](https://github.com/chowzk)
